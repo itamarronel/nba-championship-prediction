@@ -105,7 +105,7 @@ I used several packages beyond the course curriculum, including:
 
 I began by examining the correlation between regular season and playoff performance. I found a correlation of .584 between regular season and playoff net rating:
 
-![Relationship between Regular Season and Playoff Net Rating](https://raw.githubusercontent.com/itamarronel/nba-championship-prediction/main/images/rs_vs_po_all_teams.png)
+![Relationship between Regular Season and Playoff Net Rating](https://raw.githubusercontent.com/itamarronel/nba-championship-prediction/main/images/rs_nrtg_vs_po_nrtg.png)
 
 When analyzing win percentage residuals, I discovered a much weaker correlation (0.048) with playoff net rating:
 
